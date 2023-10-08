@@ -10,10 +10,12 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "conf": "^11.0.2",
     "dotenv": "^8.2.0",
     "ejs": "^3.1.5",
     "ejs-mate": "^3.0.0",
     "express": "^4.17.1",
+    "mongodb": "^6.1.0",
     "morgan": "^1.10.0"
   }
 }
